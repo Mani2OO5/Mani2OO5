@@ -2,8 +2,8 @@
 
 ---
 
-🎓 Computer Engineering (Software) student
-🤖 AI Developer working with LLMs
+🎓 Computer Engineering (Software) student  
+🤖 AI Developer working with LLMs  
 🧠 Interested in Machine Learning
 
 ---
