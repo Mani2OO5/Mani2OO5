@@ -3,7 +3,7 @@
 ---
 
 🎓 Computer Engineering (Software) student  
-🤖 AI Developer mainly working with LLMs 
+🤖 AI Developer mainly working with LLMs  
 🧠 Interested in Machine Learning
 
 ---
