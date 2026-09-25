@@ -44,11 +44,11 @@
 
 A collection of projects developed throughout my university studies.
 
-  ### 🤖 [QIAU Guide](https://github.com/Mani2OO5/QIAU-Guide)
+### 🤖 [QIAU Guide](https://github.com/Mani2OO5/QIAU-Guide)
 
-  **University Project — Bachelor's Degree**
+**University Project — Bachelor's Degree**
 
-  AI-powered Telegram assistant for Qazvin Islamic Azad University, built with LLMs, RAG, embeddings, and vector search.
+AI-powered Telegram assistant for Qazvin Islamic Azad University, built with LLMs, RAG, embeddings, and vector search.
 
 ### 🎬 [Media Editor AI Assistant](https://github.com/Mani2OO5/Media_Editor_AI_Assistant)
 
