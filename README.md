@@ -37,3 +37,27 @@
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ---
+
+## 🚀 Featured Projects
+
+### 🎓 [University Projects](https://github.com/Mani2OO5/University-Projects)
+
+A collection of projects developed throughout my university studies.
+
+### 🤖 [QIAU Guide](https://github.com/Mani2OO5/QIAU-Guide)
+
+**University Project — Bachelor's Degree**
+
+AI-powered Telegram assistant for Qazvin Islamic Azad University, built with LLMs, RAG, embeddings, and vector search.
+
+### 🎬 [Media Editor AI Assistant](https://github.com/Mani2OO5/Media_Editor_AI_Assistant)
+
+🚧 **In Progress**
+
+AI-powered media assistant that uses LLMs to convert natural-language instructions into FFmpeg commands.
+
+### 🧮 [Expression Converter](https://github.com/Mani2OO5/ExpressionConverter)
+
+C++ project for converting mathematical expressions between infix, postfix, and prefix notation.
+
+---
