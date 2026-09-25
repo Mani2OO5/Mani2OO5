@@ -74,5 +74,6 @@ C++ project for converting mathematical expressions between infix, postfix, and 
 ## 📫 Contact
 
 📧 **Email:** [maniarab2005@gmail.com](mailto:maniarab2005@gmail.com)
-𝕏 **X:** [@maniarab2005](https://x.com/maniarab2005)
+
+𝕏:** [@maniarab2005](https://x.com/maniarab2005)
 
