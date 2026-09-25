@@ -61,3 +61,18 @@ AI-powered media assistant that uses LLMs to convert natural-language instructio
 C++ project for converting mathematical expressions between infix, postfix, and prefix notation.
 
 ---
+
+## 📚 Currently Learning
+
+* 🧠 Machine Learning
+* 🤖 LLM Application Development
+* 🔎 RAG & Vector Search
+* 🏗️ Software Engineering
+* 🌐 Networking
+* 🔐 Cybersecurity
+
+## 📫 Contact
+
+📧 **Email:** [maniarab2005@gmail.com](mailto:maniarab2005@gmail.com)
+𝕏 **X:** [@maniarab2005](https://x.com/maniarab2005)
+
