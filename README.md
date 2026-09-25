@@ -24,6 +24,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
 
 ### AI
 
@@ -31,6 +32,5 @@
 ![AI Applications](https://img.shields.io/badge/AI%20Applications-FF6F00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge)
 ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-00897B?style=for-the-badge)
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge\&logo=telegram\&logoColor=white)
 
 ---
